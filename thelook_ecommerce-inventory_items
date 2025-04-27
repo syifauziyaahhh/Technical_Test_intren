@@ -34,4 +34,5 @@ WHERE
   rank_order = 1
 ORDER BY
   total_retail DESC
+  total_orders DESC
 LIMIT 10;
